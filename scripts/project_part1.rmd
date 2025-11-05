@@ -161,4 +161,6 @@ Schaefer, Rob. “How NBA Teams Are Using Sportradar’s Data Collection Platfor
 
 Project Repository URL
 
-<https://github.com/UVA-STAT3080/project-nba_dataset>
+<https://github.com/UVA-STAT3080/project-nba_dataset> (forked from given repo/template, may return 404)
+
+<https://github.com/minuuva/stat-3080-project> (in case above returns 404; same exact files)
